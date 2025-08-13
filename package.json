@@ -1,0 +1,31 @@
+{
+  "name": "n_nodejs",
+  "version": "1.0.0",
+  "description": "Zoom Clone using WebRTC and Websockets",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeongHui-seong/n_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "bugs": {
+    "url": "https://github.com/JeongHui-seong/n_nodejs/issues"
+  },
+  "homepage": "https://github.com/JeongHui-seong/n_nodejs#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.28.0",
+    "@babel/core": "^7.28.0",
+    "@babel/node": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pug": "^3.0.3"
+  }
+}
